@@ -21,4 +21,3 @@ def subsets_helper ( arr, subset, i ):
     
 sub = [1, 2]
 c = subsets( sub )
-print "There are ", c, " subsets of ", sub 
